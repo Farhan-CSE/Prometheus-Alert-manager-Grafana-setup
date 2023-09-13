@@ -1,4 +1,4 @@
-# Prometheus-Alert-manager-Node exporter-blackbox- Grafana-setup
+# Prometheus-Alert-manager-Node exporter-Nginx exporter-blackbox- Grafana-setup
 
 Monitoring EC2 Instances with Node Exporter, Prometheus, and Grafana 📊
 Are you managing Amazon EC2 instances and want to gain deeper insights into their performance and health? Setting up robust monitoring is key! Here's a step-by-step guide on how to do it using Node Exporter, Prometheus, and Grafana.
